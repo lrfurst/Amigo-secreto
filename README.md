@@ -71,12 +71,12 @@ Para personalizar a aplicação, você pode:
 Este projeto está sob a licença MIT. Você pode modificar e distribuir conforme necessário, desde que o aviso de copyright seja mantido.
 Autor
 
-    Nome: [Luis Furst]
-    GitHub: [lrfurst] (https://github.com/lrfurst)
 - **Nome**: [Luis Furst]
 - **GitHub**: [lrfurst](https://github.com/lrfurst)
 - **Foto**: ![Foto do Autor](https://github.com/lrfurst "Foto do Autor")
-    
+
+    ![Seu Nome](https://photos.google.com/photo/AF1QipPTdE6bqD6Do8ovlCwLMBcweiiz3ZDv8uKFNhBk "Foto do Autor")
+
 8) Contribuições
 
 Contribuições são o que tornam a comunidade open source um lugar incrível para aprender, inspirar e criar. Qualquer contribuição para este projeto é muito bem-vinda!

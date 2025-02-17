@@ -75,7 +75,7 @@ Autor
 - **GitHub**: [lrfurst](https://github.com/lrfurst)
 - **Foto**: ![Foto do Autor](https://github.com/lrfurst "Foto do Autor")
 
-    ![Seu Nome](https://photos.google.com/photo/AF1QipPTdE6bqD6Do8ovlCwLMBcweiiz3ZDv8uKFNhBk "Foto do Autor")
+    ![Seu Nome](https://photos.google.com/photo/AF1QipPTdE6bqD6Do8ovlCwLMBcweiiz3ZDv8uKFNhBk.jpeg"Foto do Autor")
 
 8) Contribuições
 

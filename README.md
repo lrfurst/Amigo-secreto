@@ -21,6 +21,7 @@ Esta aplicação web permite organizar um amigo secreto de maneira simples e efi
 
 Clone este repositório para o seu computador.
    ```bash
+
    git clone https://github.com/lrfurst/Amigo-secreto
 
 1) Estrutura do Projeto
@@ -71,7 +72,10 @@ Este projeto está sob a licença MIT. Você pode modificar e distribuir conform
 Autor
 
     Nome: [Luis Furst]
-    GitHub: 
+    GitHub: [lrfurst] (https://github.com/lrfurst)
+- **Nome**: [Luis Furst]
+- **GitHub**: [lrfurst](https://github.com/lrfurst)
+- **Foto**: ![Foto do Autor](https://github.com/lrfurst "Foto do Autor")
     
 8) Contribuições
 
